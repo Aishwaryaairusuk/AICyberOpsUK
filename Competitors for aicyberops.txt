@@ -1,0 +1,23 @@
+Competitors in UK
+
+1.IT Governance Ltd
+What they do: UK-focused compliance and certification products — Cyber Essentials packages, GDPR toolkits, policy templates, training and certification support.
+Strengths: Productised, low-cost packages and good content/library; strong SEO for “Cyber Essentials” search terms.
+Weaknesses: Template-driven; less bespoke hand-holding for customers who need a managed service.
+How to compete: Emphasise personalised onboarding, hands-on assessor support, and UK-based account managers. Offer fixed-fee packages that include customised policies and phone-based help.
+2.NCC Group
+What they do: Global security consultancy offering penetration testing, managed detection, incident response, compliance advisory and enterprise-level assurance.
+Strengths: Strong reputation, deep technical expertise, enterprise customers and large-scale resources.
+Weaknesses: Expensive and less attractive to SMEs; slower procurement/process.
+How to compete: Position as the affordable, SME-friendly alternative with faster delivery. Publish clear case studies and turnaround SLAs for SMEs/supply‑chain buyers.
+3.CyberSmart
+What they do: SaaS platform for automating Cyber Essentials and security compliance for SMEs — self-service controls checks, continuous monitoring and workflows.
+Strengths: Automation, simple UX, scalable pricing, quick onboarding for small businesses.
+Weaknesses: Less human advisory and technical remediation support; customers may still need hands-on assessment for Plus-level work.
+How to compete: Offer a hybrid model — automated tooling plus a named assessor/engineer for remediation and Plus testing. Highlight human-led verification and post-certification support.
+
+Competitors in India
+1. Tata Consultancy Services (TCS) — large enterprise-grade cybersecurity consulting, managed security and compliance; strength: scale and trust with large customers.
+2. Aujas Networks — India-based specialist in security assessments, penetration testing and managed detection; strength: deep technical services for mid‑market and enterprise.
+3. Safe Security (formerly Lucideus) — SaaS-first security posture & risk scoring platform for organisations and MSSPs; strength: automated risk scoring and developer-friendly tooling.
+
